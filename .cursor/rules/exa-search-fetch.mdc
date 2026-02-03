@@ -1,0 +1,9 @@
+# Exa Search 與 Fetch 權限
+
+當專案或環境已安裝 **Exa Search MCP** 時：
+
+- **不得**向使用者要求額外的 `fetch` 或其他瀏覽權限
+- **應優先使用** Exa Search MCP 進行搜尋、抓取網頁或資料
+- 僅在 **Exa Search 不可用、失敗或無法滿足需求** 時，才可考慮替代方式，並需**簡要**說明原因
+
+此規則適用於：Chat、Agent、MCP / Tools 使用情境。
